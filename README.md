@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/artf/grapesjs.svg?branch=master)](https://travis-ci.org/artf/grapesjs)
 [![Chat](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/QAbgGXq)
 
-<p align="center"><img src="http://websitebuilder.winplaybox.com/img/front-page-m.png" alt="wpb" width="500" align="center"/></p>
+<p align="center"><img src="https://avatars2.githubusercontent.com/u/29690697?s=40&v=4" alt="wpb" width="500" align="center"/></p>
 
 
 GrapesJS is a free and open source Web Builder Framework which helps you building HTML templates to be used inside sites, newsletters and mobile apps.
